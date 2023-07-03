@@ -1,7 +1,7 @@
 # Hours Boost
 
-Ingame hours boost for Steam with node
-Supported steam sessions, so if you have mobile tfa, you need to enter it only once. Session is valid ~200 days
+<b>Ingame hours boost for Steam with node</b><br>
+Supported steam sessions, so if you have mobile tfa, you need to enter it only once (session is valid ~200 days)
 
 <b>Setting up:</b>
 ```
