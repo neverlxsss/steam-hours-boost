@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "login": "firstlogin",
+            "password": "firstpassword",
+            "secret": "",
+            "games": [
+                "hoursboost",
+                440,
+                730
+            ],
+            "online": 1
+        },
+        {
+            "login": "secondlogin",
+            "password": "secondpassword",
+            "secret": "sharedsecret",
+            "games": [
+                570,
+                440,
+                730
+            ],
+            "online": 0
+        }
+    ]
+}
